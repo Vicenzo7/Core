@@ -68,6 +68,8 @@ public class List {
         vector.addAll(names);
         System.out.println("VECTOR: "+vector);
 
+        System.out.println("GIT PRACTISE");
+
 
 
 
